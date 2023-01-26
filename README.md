@@ -1,3 +1,2 @@
-# SmartBar
-Si tratta di un'ipotetica app che fa scegliere tra le varie bevande
-Questo è il primo codice che scrivo da solo in python, ha ancora delle limitazioni e ci sono alcune cose da migliorare.
+# I miei progetti
+Ho sviluppato due codici, cercando di renderli man mano sempre più complessi. Al momento sono ancora molto semplici e pieni di cose da migliorare
